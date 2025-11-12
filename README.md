@@ -110,4 +110,4 @@ Built with modern, accessible components:
 - Form validation and error handling
 - Loading states and optimistic updates
 
-Made with ❤️ by Sharma
+
